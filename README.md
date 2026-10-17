@@ -1,9 +1,10 @@
-# Lista de Tareas dnsjhdjfbhdsjiodifj
+# Lista de Tareas dnsjhdj
 ## Descrición
 Proyecto Colaborativo para gestionar tareas pendientes
 ## Funcionalidades
 Estas marcas indican las versiones que deben revisarse.
 ## Funcionalidad: registrar tareas y asignar prioridades.
+ksjhboidjbhifijjijieujidwdindcbh
 - Resgitrar tareas 
 - Mostrar tareas 
 - Marcar tareas como completas
